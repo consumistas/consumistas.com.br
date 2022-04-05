@@ -13,6 +13,7 @@ class App extends Component {
           <h1 class="texto">
             Site em desenvolvimento :)
           </h1>
+          <h2><a id="urlRepo" href="https://github.com/consumistas/consumistas.com.br">Repositório no github</a></h2>
 
 
         </header>
