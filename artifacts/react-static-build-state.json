@@ -1,0 +1,54 @@
+{
+  "prefetchRate": 5,
+  "maxThreads": 1,
+  "disableRoutePrefixing": false,
+  "outputFileRate": 100,
+  "extensions": [
+    ".js",
+    ".jsx"
+  ],
+  "minLoadTime": 200,
+  "disablePreload": false,
+  "disableRuntime": false,
+  "preloadPollInterval": 300,
+  "productionSourceMaps": false,
+  "silent": false,
+  "entry": "index.js",
+  "paths": {
+    "ROOT": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas",
+    "SRC": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\src",
+    "DIST": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\dist",
+    "ASSETS": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\dist",
+    "PLUGINS": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\plugins",
+    "TEMP": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\tmp",
+    "ARTIFACTS": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\artifacts",
+    "PUBLIC": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\public",
+    "NODE_MODULES": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\node_modules",
+    "EXCLUDE_MODULES": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\node_modules",
+    "PACKAGE": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\package.json",
+    "HTML_TEMPLATE": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\dist\\index.html",
+    "STATIC_DATA": "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas\\dist\\staticData"
+  },
+  "plugins": [
+    "C:\\Users\\Juninho\\dev\\consumistas.com.br\\consumistas"
+  ],
+  "siteRoot": "/",
+  "basePath": "",
+  "publicPath": "/",
+  "assetsPath": "",
+  "extractCssChunks": false,
+  "inlineCss": false,
+  "babelExcludes": [],
+  "devServer": {
+    "host": "localhost",
+    "port": 3000
+  },
+  "terser": {
+    "terserOptions": {
+      "mangle": {},
+      "parse": {},
+      "compress": {},
+      "output": {}
+    }
+  }
+}
