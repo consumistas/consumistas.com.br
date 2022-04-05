@@ -1,0 +1,8 @@
+{
+  "name": "consumistas.com.br",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/consumistas/consumistas.com.br",
+  "author": "Juninho <joaofbjunior01@gmail.com>",
+  "license": "MIT"
+}
